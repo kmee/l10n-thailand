@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo-addon-currency_rate_update_TH_BOT>=16.0dev,<16.1dev',
+        'odoo-addon-l10n_th_account_asset_management>=16.0dev,<16.1dev',
         'odoo-addon-l10n_th_account_tax>=16.0dev,<16.1dev',
         'odoo-addon-l10n_th_account_tax_expense>=16.0dev,<16.1dev',
         'odoo-addon-l10n_th_account_tax_multi>=16.0dev,<16.1dev',
