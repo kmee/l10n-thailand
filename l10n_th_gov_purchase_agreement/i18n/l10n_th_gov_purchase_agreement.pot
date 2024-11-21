@@ -4,7 +4,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 15.0\n"
+"Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -47,6 +47,7 @@ msgid "No Agreement"
 msgstr ""
 
 #. module: l10n_th_gov_purchase_agreement
+#. odoo-python
 #: code:addons/l10n_th_gov_purchase_agreement/models/purchase.py:0
 #, python-format
 msgid "No Agreement."
@@ -74,6 +75,7 @@ msgid "RFQ"
 msgstr ""
 
 #. module: l10n_th_gov_purchase_agreement
+#. odoo-python
 #: code:addons/l10n_th_gov_purchase_agreement/models/agreement.py:0
 #, python-format
 msgid "The partner should be the same as in RFQ."
