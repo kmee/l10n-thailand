@@ -26,6 +26,7 @@ addon | version | maintainers | summary
 [l10n_th_account_tax](l10n_th_account_tax/) | 15.0.2.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Thai Localization - VAT and Withholding Tax
 [l10n_th_account_tax_expense](l10n_th_account_tax_expense/) | 15.0.2.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Thai Localization - Expense Tax
 [l10n_th_account_tax_expense_operating_unit](l10n_th_account_tax_expense_operating_unit/) | 15.0.1.0.0 | [![Saran440](https://github.com/Saran440.png?size=30px)](https://github.com/Saran440) | Thai Localization - Expense Tax Operating Unit
+[l10n_th_account_tax_inter_company](l10n_th_account_tax_inter_company/) | 15.0.1.0.0 | [![Saran440](https://github.com/Saran440.png?size=30px)](https://github.com/Saran440) | Thai Localization - Inter Company Tax
 [l10n_th_account_tax_multi](l10n_th_account_tax_multi/) | 15.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Thai Localization - Tax with Payment Multi Deduction
 [l10n_th_account_tax_report](l10n_th_account_tax_report/) | 15.0.1.4.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Thai Localization - VAT and Withholding Tax Reports
 [l10n_th_account_wht_cert_form](l10n_th_account_wht_cert_form/) | 15.0.1.1.0 | [![Saran440](https://github.com/Saran440.png?size=30px)](https://github.com/Saran440) | Thai Localization - Withholding Tax Certificate Form
