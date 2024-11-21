@@ -18,6 +18,7 @@ setuptools.setup(
         'odoo-addon-l10n_th_base_location>=16.0dev,<16.1dev',
         'odoo-addon-l10n_th_base_sequence>=16.0dev,<16.1dev',
         'odoo-addon-l10n_th_fonts>=16.0dev,<16.1dev',
+        'odoo-addon-l10n_th_gov_purchase_agreement>=16.0dev,<16.1dev',
         'odoo-addon-l10n_th_mis_report>=16.0dev,<16.1dev',
         'odoo-addon-l10n_th_partner>=16.0dev,<16.1dev',
         'odoo-addon-l10n_th_promptpay>=16.0dev,<16.1dev',
